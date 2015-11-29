@@ -1,0 +1,19 @@
+{
+    "username": "phyopine+dev@icloud.com", 
+    "environment": "developer", 
+    "project_name": "iCloud+Dev", 
+    "workspace": "/Users/phyopine/MavenMates", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "M3SOMH6154EVANRYNRIG9W3QQ6OQ4HYL", 
+    "metadata_container": "1dc61000000Ipv6AAC", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
