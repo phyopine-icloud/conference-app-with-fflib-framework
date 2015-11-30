@@ -1,0 +1,79 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [
+        "ISpeakersService"
+    ], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "SpeakersServiceImpl", 
+    "tableDeclaration": {
+        "type": "SpeakersServiceImpl", 
+        "modifiers": [
+            "public"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 14, 
+            "line": 11
+        }, 
+        "name": "SpeakersServiceImpl"
+    }, 
+    "key": "01p61000006qjxjAAA", 
+    "variables": [
+        {
+            "type": "Set", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 41, 
+                "line": 14
+            }, 
+            "name": "speakerIds"
+        }, 
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 20, 
+                "line": 16
+            }, 
+            "name": "speakerRecords"
+        }, 
+        {
+            "type": "ISpeakers", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 13, 
+                "line": 18
+            }, 
+            "name": "sessionSpeakers"
+        }
+    ], 
+    "id": "01p61000006qjxjAAA", 
+    "methods": [
+        {
+            "modifiers": [
+                "public"
+            ], 
+            "name": "getSpeakersInfo", 
+            "parameters": [
+                {
+                    "type": "Set", 
+                    "name": "speakerIds"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 14, 
+                "line": 14
+            }, 
+            "returnType": "void", 
+            "type": null
+        }
+    ]
+}

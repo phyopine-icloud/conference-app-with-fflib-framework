@@ -1,0 +1,44 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [
+        "fflib_ISObjectDomain"
+    ], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "ISpeakers", 
+    "tableDeclaration": {
+        "type": "ISpeakers", 
+        "modifiers": [
+            "public"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 18, 
+            "line": 11
+        }, 
+        "name": "ISpeakers"
+    }, 
+    "key": "01p61000006qjxtAAA", 
+    "variables": [], 
+    "id": "01p61000006qjxtAAA", 
+    "methods": [
+        {
+            "modifiers": [
+                "public", 
+                "abstract"
+            ], 
+            "name": "getSpeakersInfo", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 19, 
+                "line": 12
+            }, 
+            "returnType": "LIST", 
+            "type": null
+        }
+    ]
+}

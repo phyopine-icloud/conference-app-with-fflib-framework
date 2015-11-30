@@ -1,0 +1,60 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [
+        "fflib_ISObjectSelector"
+    ], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "ISpeakersSelector", 
+    "tableDeclaration": {
+        "type": "ISpeakersSelector", 
+        "modifiers": [
+            "public"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 18, 
+            "line": 11
+        }, 
+        "name": "ISpeakersSelector"
+    }, 
+    "key": "01p61000006qjxyAAA", 
+    "variables": [
+        {
+            "type": "Set", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 38, 
+                "line": 13
+            }, 
+            "name": "idSet"
+        }
+    ], 
+    "id": "01p61000006qjxyAAA", 
+    "methods": [
+        {
+            "modifiers": [
+                "public", 
+                "abstract"
+            ], 
+            "name": "selectById", 
+            "parameters": [
+                {
+                    "type": "Set", 
+                    "name": "idSet"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 19, 
+                "line": 13
+            }, 
+            "returnType": "LIST", 
+            "type": null
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "SpeakersService", 
+    "tableDeclaration": {
+        "type": "SpeakersService", 
+        "modifiers": [
+            "global", 
+            "with sharing"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 27, 
+            "line": 9
+        }, 
+        "name": "SpeakersService"
+    }, 
+    "key": "01p61000006qjxeAAA", 
+    "variables": [
+        {
+            "type": "Set", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 45, 
+                "line": 11
+            }, 
+            "name": "speakerIds"
+        }
+    ], 
+    "id": "01p61000006qjxeAAA", 
+    "methods": [
+        {
+            "modifiers": [
+                "static", 
+                "global"
+            ], 
+            "name": "getSpeakersInfo", 
+            "parameters": [
+                {
+                    "type": "Set", 
+                    "name": "speakerIds"
+                }
+            ], 
+            "visibility": "GLOBAL", 
+            "references": [], 
+            "location": {
+                "column": 21, 
+                "line": 11
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "private", 
+                "static"
+            ], 
+            "name": "service", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 34, 
+                "line": 16
+            }, 
+            "returnType": "ISpeakersService", 
+            "type": null
+        }
+    ]
+}

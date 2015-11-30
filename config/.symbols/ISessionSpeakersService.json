@@ -1,0 +1,58 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "ISessionSpeakersService", 
+    "tableDeclaration": {
+        "type": "ISessionSpeakersService", 
+        "modifiers": [
+            "public"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 18, 
+            "line": 9
+        }, 
+        "name": "ISessionSpeakersService"
+    }, 
+    "key": "01p61000006qjxaAAA", 
+    "variables": [
+        {
+            "type": "Set", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 37, 
+                "line": 12
+            }, 
+            "name": "speakerIds"
+        }
+    ], 
+    "id": "01p61000006qjxaAAA", 
+    "methods": [
+        {
+            "modifiers": [
+                "public", 
+                "abstract"
+            ], 
+            "name": "sendConfirmationEmail", 
+            "parameters": [
+                {
+                    "type": "Set", 
+                    "name": "speakerIds"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 7, 
+                "line": 12
+            }, 
+            "returnType": "void", 
+            "type": null
+        }
+    ]
+}

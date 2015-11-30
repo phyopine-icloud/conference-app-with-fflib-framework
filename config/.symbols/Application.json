@@ -1,0 +1,86 @@
+{
+    "properties": [
+        {
+            "modifiers": [
+                "static", 
+                "public", 
+                "final"
+            ], 
+            "name": "UnitOfWork", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 58, 
+                "line": 9
+            }, 
+            "type": "UnitOfWorkFactory"
+        }, 
+        {
+            "modifiers": [
+                "static", 
+                "public", 
+                "final"
+            ], 
+            "name": "Service", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 55, 
+                "line": 16
+            }, 
+            "type": "ServiceFactory"
+        }, 
+        {
+            "modifiers": [
+                "static", 
+                "public", 
+                "final"
+            ], 
+            "name": "Selector", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 56, 
+                "line": 26
+            }, 
+            "type": "SelectorFactory"
+        }, 
+        {
+            "modifiers": [
+                "static", 
+                "public", 
+                "final"
+            ], 
+            "name": "Domain", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 54, 
+                "line": 34
+            }, 
+            "type": "DomainFactory"
+        }
+    ], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "Application", 
+    "tableDeclaration": {
+        "type": "Application", 
+        "modifiers": [
+            "public"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 14, 
+            "line": 6
+        }, 
+        "name": "Application"
+    }, 
+    "key": "01p61000006qjxUAAQ", 
+    "variables": [], 
+    "id": "01p61000006qjxUAAQ", 
+    "methods": []
+}
